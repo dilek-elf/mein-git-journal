@@ -8,16 +8,16 @@
 
  ## Architektur
  .Frage: Was ist in einem zentralisierten System (wie einer Bibliothek) der "Single Point of Failure"?
- >
+ > Ein serverausfall
  .Frage: Wo wird in einem verteilten System (wie Git) die vollständige Projekthistorie gespeichert?
- >
+ >im Root
 
  ## Der Workflow
  .Frage: Was entspricht in der "Supermarkt-Analogie" dem Einkaufswagen?
- >
+ > Das Add
  .Frage: Welcher Befehl wird verwendet, um einen Schnappschuss des Einkaufswagens zu machen?
- >
+ > Commit
 
- 
+
 
 
