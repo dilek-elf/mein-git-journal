@@ -5,3 +5,19 @@
  > Wer speichert was und warum? = User, Datei, Commit/Betreff
  .Frage:_ Was ist der "Stamm" (trunk) des Baumes in der Terminologie der Versionskontrolle?
  > Das ist eine Mutter Ordner,Original Datei.
+
+ ## Architektur
+ .Frage: Was ist in einem zentralisierten System (wie einer Bibliothek) der "Single Point of Failure"?
+ >
+ .Frage: Wo wird in einem verteilten System (wie Git) die vollständige Projekthistorie gespeichert?
+ >
+
+ ## Der Workflow
+ .Frage: Was entspricht in der "Supermarkt-Analogie" dem Einkaufswagen?
+ >
+ .Frage: Welcher Befehl wird verwendet, um einen Schnappschuss des Einkaufswagens zu machen?
+ >
+
+ 
+
+
