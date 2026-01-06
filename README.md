@@ -16,7 +16,7 @@
  .Frage: Was entspricht in der "Supermarkt-Analogie" dem Einkaufswagen?
  > Das Add
  .Frage: Welcher Befehl wird verwendet, um einen Schnappschuss des Einkaufswagens zu machen?
- > Commit
+ > Das ist Commit
 
 
 
